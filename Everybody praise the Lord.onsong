@@ -3,7 +3,7 @@ Lincoln Brewster
 Key: A
 Tempo: 109
 Duration: 04:04
-Flow: I I V1 C V2 C1 C2 S C3 C4 B E
+Flow: I I V1 C I V2 C1 C2 S C3 C4 B E
 
 Intro:
 
@@ -37,6 +37,10 @@ Chorus 1:
 [A5]Everybody[F] Everybody
 [D/F#]Everybody[G] praise the Lord
 [A]Every[B/A]body [D/A]praise the Lord[A5]
+
+Intro:
+
+[A1] [F#1] [G1] [G#1] [A1] [F#1] [G1] [G#1] 
 
 Verse 2:
 
@@ -75,7 +79,7 @@ Chorus 2:
 
 Solo:
 
-| [F#m] / / / | [F#m] / / / | [G]/ / / | [G]/ / / | 
+||: [F#m] / / / | [F#m] / / / | [G]/ / / | [G]/ / / :|| 
 
 [A1] [C#1] [D1] [D#1] [E1] [F#1]
 
@@ -120,6 +124,8 @@ Breakdown:
 Ending:
 
 [A]
+
+
 
 
 
